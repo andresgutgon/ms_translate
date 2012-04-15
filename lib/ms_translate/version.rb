@@ -1,4 +1,4 @@
 module MsTranslate
   # Number version
-  VERSION = "0.1.32"
+  VERSION = "0.1.1"
 end
